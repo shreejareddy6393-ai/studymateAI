@@ -1,0 +1,9 @@
+flask
+python-dotenv
+werkzeug
+requests
+openai
+PyMuPDF
+sentence-transformers
+faiss-cpu
+numpy
